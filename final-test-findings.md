@@ -1,0 +1,3 @@
+# Hallazgos de la revisión final
+
+La vista de Inicio se muestra sin desbordamiento horizontal en móvil de 390 px y escritorio de 1440 px. La barra inferior mantiene Inicio, Practicar y Progreso centrados y visibles. Las páginas legales cargan y conservan lectura responsive. El aviso de privacidad aparece correctamente, aunque visualmente se superpone sobre parte del contenido legal mientras permanece abierto; su botón de cierre permite despejar la lectura. El banco contiene 954 preguntas, nueve licencias, cuatro alternativas por pregunta y explicaciones completas después de la corrección automática basada en la respuesta oficial.
